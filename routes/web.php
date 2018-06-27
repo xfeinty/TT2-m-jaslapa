@@ -36,6 +36,6 @@ Route::get('/admins', function(){
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/home', 'TaskController@index');
 
-Route::get('admin_area', ['middleware' => 'admin', function () {
+Route::get('admin_area', ['middleware' => '', function () {
     //
 }]);
