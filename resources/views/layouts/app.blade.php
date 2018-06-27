@@ -61,7 +61,7 @@ aria-expanded="false" aria-haspopup="true">
 <li><a href="/admins">Admins</a></li>
 @endif
 <li>
-<a href="{{ route('logout') }}"
+<a href="{{ route('') }}"
 onclick="event.preventDefault();
 document.getElementById('logout-form').submit();">
 Iziet
