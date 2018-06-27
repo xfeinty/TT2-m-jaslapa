@@ -11,5 +11,5 @@ return [
     'cpassword'=>'Apstiprini paroli',
     'RM'=>'Atceries mani',
     'FG'=>'Aizmirsi paroli?',
-    ''=>'Studentu apliecības numurs'
+    'code'=>'Studentu apliecības numurs'
 ];
